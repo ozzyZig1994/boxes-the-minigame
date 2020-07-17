@@ -6,3 +6,4 @@ Features:
 
 - Classic video game background music
 - Sound of clapping when you win
+- Through a plain text file the die rolls are entered
